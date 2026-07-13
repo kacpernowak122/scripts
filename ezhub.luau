@@ -23,7 +23,7 @@ ___<__(|) _   ""-/  / /   /
    `-._  /  / /   /_,'            ""--"
        "/  / /   /
        /  / /   /
-      /  / /   /       Do you really think I would use this shit obfuscator?
+      /  / /   /      Do you really think I would just leave full free src?
      /  |,'   /              Stop skidding and just use the script,
     :   /    /                 if you really want to reverse it
     [  /   ,'                try to challenge this obfuscation...
